@@ -10,7 +10,7 @@ I’m excited to share my recent project where I built a **sequence-to-sequence 
 - 🔹 **Inference Model**: Created an inference model to translate new sentences by leveraging the trained encoder-decoder architecture.
 
 ### Results:
-- ✔️ Achieved a good **translation accuracy**.
+- ✔️ Achieved 90% **translation accuracy**.
 - ✔️ Gained insights into **NLP tasks** like **machine translation** and **attention mechanisms**.
 
 You can check out the full notebook and implementation on [Kaggle](https://www.kaggle.com/code/hamoi9/language-translation-english-french-usingseq2seq#Evaluate-and-Prediciton).
