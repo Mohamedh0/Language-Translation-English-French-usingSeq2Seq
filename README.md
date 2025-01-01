@@ -1,4 +1,4 @@
-🚀 **Machine Translation using Seq2Seq Model with Attention Mechanism** 🌐
+# 🚀 **Machine Translation using Seq2Seq Model with Attention Mechanism** 🌐
 
 I’m excited to share my recent project where I built a **sequence-to-sequence (Seq2Seq)** model with an **Attention Mechanism** for **English-to-French translation**. This project allowed me to dive deep into **natural language processing (NLP)** and **sequence modeling**. 🧠📊
 
